@@ -1,0 +1,109 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_large___1
+	 *	@date 		Friday 13th of October 2023 10:46:35 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_large___1" 
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_android_large___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View
+					android:id="@+id/_bg__android_large___1_ek2"
+					android:layout_width="380dp"
+					android:layout_height="447dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/_bg__android_large___1_ek2_shape" />
+
+				<TextView android:id="@+id/lbl_header"
+					android:textSize="20sp"
+					android:textColor="@color/lbl_header_color"
+					android:layout_marginLeft="146dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="92dp"
+					android:layout_height="35dp"
+					android:text="@string/lbl_header_string"
+					 />
+
+				<ImageView android:id="@+id/img_main"
+					android:src="@drawable/img_main"
+					android:contentDescription="img_main"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="71dp"
+					android:layout_width="318dp"
+					android:layout_height="304dp" />
+
+
+				<RelativeLayout android:id="@+id/btn_do_smth"
+					android:layout_marginTop="392dp"
+					android:layout_marginStart="133dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__btn_do_smth"
+						android:background="@drawable/_bg__btn_do_smth_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="100dp"
+						android:layout_height="25dp" />
+
+					<View   android:id="@+id/rectangle"
+						android:background="@drawable/rectangle_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="100dp"
+						android:layout_height="25dp" />
+
+					<TextView android:id="@+id/labas"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="12sp"
+						android:textColor="@color/labas_color"
+						android:layout_marginLeft="-2dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="106.2dp"
+						android:layout_height="28.2dp"
+						android:text="@string/labas_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/vc_some_curve"
+					android:src="@drawable/vc_some_curve"
+					android:contentDescription="vc_some_curve"
+					android:layout_marginStart="33dp"
+					android:layout_marginTop="1dp"
+					android:layout_width="243.72dp"
+					android:layout_height="49.62dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
